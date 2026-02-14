@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Neon",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-14T15:33:11.385021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chasin' That Neon Rainbow",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/01_Chasin'_That_Neon_Rainbow_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chasin' That Neon Rainbow",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/02_Chasin'_That_Neon_Rainbow_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chasin' That Neon Rainbow",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/03_Chasin'_That_Neon_Rainbow_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "High Noon Neon",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/04_High_Noon_Neon_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High Noon Neon",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/05_High_Noon_Neon_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Neon Blue",
+      "artist": "Joshua Hedley",
+      "has_synced": true,
+      "path": "select/06_Neon_Blue_Joshua_Hedley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Neon Church",
+      "artist": "Tim McGraw",
+      "has_synced": false,
+      "path": "select/07_Neon_Church_Tim_McGraw.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Neon Church",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/08_Neon_Church_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Neon Light",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/09_Neon_Light_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Neon Middle June",
+      "artist": "John Moreland",
+      "has_synced": true,
+      "path": "select/10_Neon_Middle_June_John_Moreland.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Neon Moon",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/11_Neon_Moon_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Neon Moon (Album Version)",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/12_Neon_Moon_(Album_Version)_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Neon Moon (with Kacey Musgraves)",
+      "artist": "Brooks & Dunn feat. Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/13_Neon_Moon_(with_Kacey_Musgraves)_Brooks_&_Dunn_feat._Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Neon Moon (with Kacey Musgraves)",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/14_Neon_Moon_(with_Kacey_Musgraves)_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Neon",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Neon_ONE_OK_ROCK.txt"
+    }
+  ]
+}
